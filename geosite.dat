@@ -406,6 +406,8 @@ youmind.aiyoumind.comyoumind.sitecerebras.aicursor-cdn.c
 cursor.com	cursor.shcursorapi.comcursorvm.comgithubcopilot.commanus.immanuscdn.comstitch.withgoogle.combard.google.comchatgpt.livekit.cloudhost.livekit.cloudlabs.google.comcopilot.cloud.microsoftgeller-pa.googleapis.com%!generativelanguage.googleapis.comopal.google.com&"proactivebackend-pa.googleapis.comaida.googleapis.comaicode.googleapis.comaisandbox-pa.googleapis.comcopilot.microsoft.comturn.livekit.cloudflow.google.comnotebook.google.com#robinfrontend-pa.googleapis.comaistudio.google.comnotebooklm.google.comjules.google.comgemini.gstatic.commakersuite.google.com
 grok.x.comgemini.google.comgateway.ai.cloudflare.com"coderabbit.gallery.vsassets.io"labstailwind.pa.googleapis.comgrazie.aws.intellij.net!openai.com.cdn.cloudflare.netcoze.commarscode.comtrae.aicici.com
 ciciai.comciciaicdn.comdola.com browser-intake-datadoghq.como33249.ingest.sentry.ioo33249.ingest.us.sentry.ioopenai.qualtrics.com3/copilot-telemetry-service.githubusercontent.com+'copilot-telemetry.githubusercontent.com&"http-intake.logs.us5.datadoghq.com o1158394.ingest.us.sentry.io
+t
+AI-DOMAINS-CUSTOM_[^browser-intake(-[a-z0-9]+)?-(datadoghq\.com|ddog-gov\.com)$|^browser-intake-datadoghq\.eu$
 $
 CATEGORY-BAN-CUSTOM	gokino.by
 ž”
